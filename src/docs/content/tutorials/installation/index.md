@@ -11,7 +11,7 @@ weight: 1010000
 
 ### Java Version
 
-Gatling supports 64bits OpenJDK LTS (Long Term Support) versions: 8, 11 and 17.
+Gatling supports 64bits OpenJDK LTS (Long Term Support) versions: 8, 11, 17 as well as the latest version.
 Other JVMs such as JDK 12, client JVMs, 32bits systems or OpenJ9 are not supported.
 
 ### Supported Languages
